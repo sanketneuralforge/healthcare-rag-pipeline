@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.python-version
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# Test and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Local caches
+.cache/
+
+# Model and runtime artifacts
+*.pt
+*.bin
+*.safetensors

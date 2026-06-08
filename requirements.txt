@@ -1,0 +1,13 @@
+beautifulsoup4
+matplotlib
+nltk
+numpy
+pandas
+Pillow
+rank_bm25
+requests
+scikit-learn
+sentence-transformers
+torch
+transformers
+jupyter
