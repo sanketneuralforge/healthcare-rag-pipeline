@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project was developed as part of **Assignment 1: Enterprise Knowledge Retrieval for Pharma & Healthcare Research**.
+This project was developed as part of **Enterprise Knowledge Retrieval for Pharma & Healthcare Research**.
 
-The goal of the assignment is to build a **hybrid healthcare retrieval system** that can search across:
+The goal of the project is to build a **hybrid healthcare retrieval system** that can search across:
 
 - biomedical research text
 - clinical-style image data
